@@ -27,38 +27,45 @@ Contains material that I have studied both theory and hands-on lab using IBM cog
 
 ## WEEK 2
 
-#### Advanced SQL (Analyzing HR Employees data)
+#### Relational Databases and Tables (Analyzing HR Employees data)
 
-  - [x] Explain how to use string patterns and ranges in SQL queries
-  - [x] Demonstrate how to sort and order result sets
-  - [x] Practice use of grouping data in result sets
-  - [x] Employ Built-in functions in Queries
-  - [x] Demonstrate how to write sub-queries and nested selects
-  - [x] Build queries to access multiple tables
+  - [x] Explain how to use IBM Cloud
+  - [x] There is a sql format script to create table columns before the csv data is entered into the database in MySQL
+  - [x] Learn about type of SQL Statement like DDL and DML
+  - [x] Practice and Learn about Create, Alter, Truncate and Drop Tables
+  - [x] Practice and Learn about how to Create and load Tables using SQL Script
 
 ## WEEK 3
 
-#### Accessing Databases using Python
+#### Intermediate SQL
 
-  * Describe concepts related to accessing Databases using Python
-  * Learn and Practice how to connect to a database from a Jupyter notebook
-  * Understand and demonstrate how to create tables and insert data from Python
-  * Write SQL queries and retrieve result sets from Python
-  * Practice how to perform simplified database access from Python using SQL magic
-  * Enumerate different type of JOIN operations
-  * Explain what is an INNER JOIN and practice hands-on
-  * Distinguish between different types of OUTER JOINs and apply your understanding
+  - [x] Understand and demonstrate about String pattern, Ranges, Sorting, and Grouping
+  - [x] Write SQL queries and retrieve result sets from Python
+  - [ ] Understand about Sorting and Grouping Result set
+  - [x] Learn about Built-in Database functions
+  - [x] Learn and demonstrate about Nested SELECT Statement, and Sub-queries Statement
+  - [x] Learn and demonstrate about working in multiple tables.
 
 ## WEEK 4
 
-#### Course Assignment
+#### Accessing Databases using python in jupyter-notebook
 
-  * Demonstrate effective use of formulating SQL queries
-  * Demonstrate use of invoking SQL queries from Jupyter notebooks using Python
-  * Demonstrate skill in retrieving SQL query results and analyzing data
+  - [x] Learn about concepts related to accessing Databases using Python
+  - [x] Practice how to connect to a database from a Jupyter notebook
+  - [x] Demonstrate effective use of formulating SQL queries
+  - [x] Using SQL Magic to retrieve query data from database using IBM DB2 API and SQlite API
+  - [x] Demonstrate use of invoking SQL queries from Jupyter notebooks using Python
+  - [x] Demonstrate skill in retrieving SQL query results and analyzing data on real-world dataset
 
-#
-#
+## Final Course Assigment
+
+  * _Census_Data.csv_ contains six socioeconomic indicators of public health significance and a “hardship index,” by Chicago community area, for the years 2008 – 2012. For more detailed information, Click [here](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2).  
+  * _Chicago_Crime_Data.csv_ reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, For more detailed information, Click [here](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2).  
+  * _Chicago_Public_Schools.csv_ shows all school level performance data used to create CPS School Report Cards for the 2011-2012 school year. For more detailed information, Click [here](https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t).  
+  * _My final-course-assignment with .ipynb fprmat_ contains the script with ipython-sql code, which is used to query the datasets after they were loaded into a Db2 database on IBM Cloud or using Sqlite Connection.
+  
+
+# 
 The Completion of My Certification is <a href="https://drive.google.com/file/d/18KZucDw2JATJIGuwyKohVr67X9oQnbW0/view?usp=sharing">Here</a>
 
 Crafted by, \
