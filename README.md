@@ -41,7 +41,7 @@ Contains material that I have studied both theory and hands-on lab using IBM cog
 
   - [x] Understand and demonstrate about String pattern, Ranges, Sorting, and Grouping
   - [x] Write SQL queries and retrieve result sets from Python
-  - [ ] Understand about Sorting and Grouping Result set
+  - [x] Understand about Sorting and Grouping Result set
   - [x] Learn about Built-in Database functions
   - [x] Learn and demonstrate about Nested SELECT Statement, and Sub-queries Statement
   - [x] Learn and demonstrate about working in multiple tables.
@@ -68,7 +68,6 @@ Contains material that I have studied both theory and hands-on lab using IBM cog
 # 
 The Completion of My Certification is <a href="https://drive.google.com/file/d/18KZucDw2JATJIGuwyKohVr67X9oQnbW0/view?usp=sharing">Here</a>
 
-Crafted by, \
-Damar Djati Wahyu Kemala \
+Crafted by, Damar Djati Wahyu Kemala \
 Email: iamdamar.4739@gmail.com \
 Git URL: https://github.com/iam-damar
